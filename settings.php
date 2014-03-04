@@ -81,7 +81,10 @@ function default_category_page_callback() {
 function default_category_page_section_callback() {
   echo '<p>Select the default category for new posts. Multiple categories can be selected.</p>';
   $default_category_id = get_option('default_category_id');
+
+  echo '<ul>';
   wp_category_checklist(0,0, $default_category_id['default_category_id']);
+  echo '</ul>';
 }
 
 /*
