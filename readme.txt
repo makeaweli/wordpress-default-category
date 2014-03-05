@@ -4,7 +4,7 @@ Donate link: http://www.bgca.org
 Tags: template, default, editorial, multisite
 Requires at least: 3.0.1
 Tested up to: 3.8.1
-Stable tag: 0.1
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -39,10 +39,16 @@ It's designed for the default post type. Maybe in the future.
 
 == Changelog ==
 
+= 1.0 =
+* Approved for listing on WordPress.org
+
 = 0.9 =
 * Initial working version
 
 == Upgrade Notice ==
+
+= 1.0 =
+* Approved for listing on WordPress.org
 
 = 0.9 =
 * Initial working version

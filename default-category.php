@@ -1,14 +1,14 @@
 <?php
 /**
  * @package default
- * @version 0.1
+ * @version 1.0
  */
 /*
 Plugin Name: Default Category
 Plugin URI: http://wordpress.org/plugins/default-text/
 Description: Auto select category.
 Author: Jason M. Kalawe
-Version: 0.1
+Version: 1.0
 Author URI: http://makea.kalawe.com
 
 */
